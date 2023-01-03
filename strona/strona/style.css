@@ -1,0 +1,170 @@
+#tabel1 td
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+#tabel1 
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+
+}
+#tabel2 td
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+#tabel2 
+{
+	border: 1px solid black;
+
+}
+#tabel3 td
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+#tabel3 
+{
+	border: 1px solid black;
+
+	border-spacing: 5px;
+}
+#tabel4 td
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+#tabel4
+{
+	border: 1px solid black;
+	background-color: red;
+	border-spacing: 5px;
+}
+#tabel5 td
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+#tabel5
+{
+	border: 1px solid black;
+
+	border-spacing: 5px;
+}
+.czerw
+{
+	background-color: red;
+}
+.nieb
+{
+	background-color: blue;
+}
+.ziel
+{
+	background-color: green;
+}
+.zolty
+{
+	background-color: yellow;
+}
+.fiol
+{
+	background-color: purple;
+}
+#tabel6 td
+
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+#tabel6
+{
+	border: 1px solid black;
+
+	border-spacing: 5px;
+}
+#tabel7 td
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+#tabel7
+{
+	border: 1px solid black;
+	background-image: url('tlo.jpg'); 
+	border-spacing: 5px;
+}
+#tabel8 td
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin: 5px;
+}
+#tabel8
+{
+	border: 1px solid black;
+	border-spacing: 10px;
+}
+#tabel9 td
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin: 5px;
+}
+#tabel9
+{
+	border: 1px solid black;
+	border-spacing: 10px;
+	width: 700px;
+	height: 500px;
+}
+#tabel10 td
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin: 5px;
+}
+#tabel10
+{
+	border: 1px solid black;
+	border-spacing: 10px;
+	width: 100%;
+	height: 100%;
+}
+#tabel11 td
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin: 5px;
+}
+#tabel11
+{
+	border: 1px solid black;
+	border-spacing: 10px;
+}
+#tabel12 td
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin: 5px;
+}
+#tabel12
+{
+	border: 1px solid black;
+	border-spacing: 10px;
+	width: 1500px;
+	height: 1000px;
+}
+.srodek
+{
+	text-align:center; 
+}
+.lewo
+{
+	text-align: left;
+}
+.prawo
+{
+	text-align: right;
+}
